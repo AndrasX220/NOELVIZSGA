@@ -1,0 +1,16 @@
+{
+  "name": "noelviszga",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node": "^22.0.0",
+    "sqlite-async": "^1.2.0"
+  }
+}
